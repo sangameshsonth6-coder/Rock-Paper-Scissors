@@ -29,3 +29,24 @@ A classic, interactive Rock Paper Scissors game where a user plays against the c
 1. Clone the repository:
    ```bash
    git clone [https://github.com/your-username/rock-paper-scissors.git](https://github.com/your-username/rock-paper-scissors.git)
+
+
+   Open index.html in your favorite web browser.
+
+🧠 What I Learned
+Handling user input through event listeners.
+
+Using Math.random() to simulate computer intelligence.
+
+Dynamically updating HTML content and CSS styles through JavaScript.
+---
+
+### Pro-Tip for your GitHub Profile:
+Since this is a front-end project, I highly recommend enabling **GitHub Pages**. 
+1. Go to your repo **Settings**.
+2. Click **Pages** on the left sidebar.
+3. Select the `main` branch and click **Save**.
+
+This will give you a live link you can add to the "About" section of your repository!
+
+Would you like me to suggest some additional features you could add to this code to make it
